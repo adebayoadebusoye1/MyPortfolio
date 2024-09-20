@@ -21,3 +21,7 @@ darkMode();
 lazyLoading();
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> baab88babf4f2f869e3c4a28a9b6b8aab2c9a4b5

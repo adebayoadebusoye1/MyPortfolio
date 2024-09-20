@@ -26,6 +26,7 @@ const mobileNav = () => {
     });
 };
 
+<<<<<<< HEAD
 const handleDownload = () => {
     let fileUrl = '/cv.pdf';
     let link = document.createElement('a');
@@ -39,4 +40,6 @@ const handleDownload = () => {
 document.getElementById('resume').addEventListener('click', function(){
     handleDownload();
 })
+=======
+>>>>>>> baab88babf4f2f869e3c4a28a9b6b8aab2c9a4b5
 export default mobileNav;
